@@ -1,8 +1,9 @@
 # 类型体操解题思路总结
 
 #### 一图流
+![image](https://github.com/tangtc213/type-challenge-ttc/blob/main/source/typp-change%E5%AE%9E%E7%BA%BF%E6%80%9D%E8%B7%AF%E6%80%BB%E7%BB%93.png)
 
-根据题目归纳解题规律
+#### 根据题目归纳解题规律
 
 #### pick
 **从类型 `T` 中选择出属性 `K`，构造成一个新的类型**。
